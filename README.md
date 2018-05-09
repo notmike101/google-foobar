@@ -32,9 +32,9 @@ Normally, you'd get access to Google FooBar by normal searches related to progra
 2. Wait for the page to fully load
 3. Copy the resulting URL
 4. Repeat the following steps as quickly as possible 25 times
-    a. Open a new tab
-    b. Paste the URL
-    c. Press enter
+    1. Open a new tab
+    2. Paste the URL
+    3. Press enter
 5. Once you've got 25 tabs open, go through the tabs.  On one or more of them, you'll see an a black bar at the top of the page asking if you're up for a challange.
 6. Once you find one, you can close all the other tabs since you don't need them.
 
